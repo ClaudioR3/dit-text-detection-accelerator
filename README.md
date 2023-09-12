@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/688424111.svg)](https://zenodo.org/badge/latestdoi/688424111)
+
 # DiT Text Detection Accelerator
 
 ## Overview:
